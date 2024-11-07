@@ -23,7 +23,7 @@ Feel free to explore my repositories to see more of my work.
 
 ## Let's Connect
 You can reach me on:
-- [LinkedIn](https://www.linkedin.com/in/jemjeqt)
+- [LinkedIn](https://www.linkedin.com/in/azhar-khairu-hafidz-5aa29b315/)
 - [instagram](https://www.instagram.com/_zharkhrh/)
 - [Email](mailto:azharkhairu29@gmail.com)
 
