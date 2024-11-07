@@ -27,7 +27,7 @@ Feel free to explore my repositories to see more of my work.
 ## Let's Connect
 You can reach me on:
 - [LinkedIn](https://www.linkedin.com/in/jemjeqt)
-- [Twitter](https://twitter.com/jemjeqt)
-- [Email](mailto:jemjeqt@example.com)
+- [instagram](https://www.instagram.com/_zharkhrh/)
+- [Email](mailto:azharkhairu29@gmail.com)
 
 I'm always excited to connect with like-minded individuals and collaborate on new projects. Let's chat!
