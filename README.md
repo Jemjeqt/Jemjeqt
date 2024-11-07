@@ -5,9 +5,7 @@
 - ⚡ Fun fact: I really enjoy **playing games**
 
 ## About Me
-As a passionate full-stack developer in the making, I'm excited to be on a journey of continuous learning and growth. Telkom University has provided me with a strong foundation in computer science and engineering, and I'm eager to put my skills into practice.
-
-Outside of my studies, I'm an avid gamer who loves to explore immersive digital worlds. Gaming not only provides me with entertainment, but also inspires my creativity and problem-solving abilities - skills that are essential in the world of software development.
+ Hi everyone! My name is Azhar Khairu Hafidz. I'm a web developer from Medan, North Sumatra. I Previously I was an ordinary student at MAN INSAN CENDEKIA, but after joining an organization at school, I became interested in the technology field after entering the Secretariat and Logistics division. My experience in the technology field began when I held a big event website held directly by my old school. Now my interest in the technology field is getting bigger, now, I am at Telkom University. My ultimate goal is to become a Web Developer or more precisely a Full-Stack developer. in my opinion, creating programs is not just a job, but also an art that has aesthetic value
 
 ## Skills
 - **Programming Languages**: JavaScript, Python, Java
