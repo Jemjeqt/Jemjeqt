@@ -16,9 +16,8 @@
 ## Projects
 Here are some of the projects I've worked on:
 
-1. [E-commerce Website](https://github.com/Jemjeqt/ecommerce-site) - A full-stack e-commerce application built with React, Node.js, and MongoDB.
-2. [Fitness Tracking App](https://github.com/Jemjeqt/fitness-app) - A mobile-friendly web app that helps users track their workouts and fitness progress.
-3. [Chatbot](https://github.com/Jemjeqt/chatbot) - A conversational AI chatbot powered by natural language processing.
+1. [JemJeeqt - Movie](https://github.com/Jemjeqt/movies) - A Web to search for various latest films that are trending.
+2. [AnimeList](https://github.com/Jemjeqt/AnimeList_Jehar) - Simulation website to find references for the most popular Anime in the world.
 
 Feel free to explore my repositories to see more of my work.
 
