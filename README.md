@@ -1,30 +1,76 @@
-# Hi there, I'm @Jemjeqt 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-- 👀 I'm interested in **Full-stack Development**
-- 😄 Studying at **Telkom University**
-- ⚡ Fun fact: I really enjoy **playing games**
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 
-## About Me
- Hi everyone! My name is Azhar Khairu Hafidz. I'm a web developer from Medan, North Sumatra. I Previously I was an ordinary student at MAN INSAN CENDEKIA, but after joining an organization at school, I became interested in the technology field after entering the Secretariat and Logistics division. My experience in the technology field began when I held a big event website held directly by my old school. Now my interest in the technology field is getting bigger, now, I am at Telkom University. My ultimate goal is to become a Web Developer or more precisely a Full-Stack developer. in my opinion, creating programs is not just a job, but also an art that has aesthetic value
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
-## Skills
-- **Programming Languages**: JavaScript, Python, Java
-- **Web Frameworks**: React, Node.js, Express
-- **Databases**: SQL, MongoDB
-- **Tools**: Git, VS Code, Figma
+<br/>
 
-## Projects
-Here are some of the projects I've worked on:
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-1. [JemJeeqt - Movie](https://github.com/Jemjeqt/movies) - A Web to search for various latest films that are trending.
-2. [AnimeList](https://github.com/Jemjeqt/AnimeList_Jehar) - Simulation website to find references for the most popular Anime in the world.
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-Feel free to explore my repositories to see more of my work.
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-## Let's Connect
-You can reach me on:
-- [LinkedIn](https://www.linkedin.com/in/azhar-khairu-hafidz-5aa29b315/)
-- [instagram](https://www.instagram.com/_zharkhrh/)
-- [Email](mailto:azharkhairu29@gmail.com)
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-I'm always excited to connect with like-minded individuals and collaborate on new projects. Let's chat!
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
