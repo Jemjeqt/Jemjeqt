@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **React JS, Vite, Vue JS**
 
-💬 Ask me about anything [here](https://www.instagram.com/_zharkhrh/)**
+💬 Ask me about anything [here](https://www.instagram.com/_zharkhrh/)
 
 ⚡ Fun fact **I like playing all the game series**
 
