@@ -48,10 +48,50 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Jemjeqt&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Jemjeqt&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jemjeqt&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <!-- GitHub Stats Card -->
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Jemjeqt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  <!-- GitHub Streak Stats -->
+  <img width="390" src="https://streak-stats.demolab.com?user=Jemjeqt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <!-- Top Languages Card -->
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jemjeqt&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+
+  <!-- GitHub Profile Trophy -->
+  <img width="800" src="https://github-profile-trophy.vercel.app/?username=Jemjeqt&theme=tokyonight&no-frame=true&column=8" alt="GitHub Profile Trophy" />
+
+  <!-- Additional GitHub Stats in Card Format -->
+  <div align="center">
+    <h3>Azhar khairu Hafidz's GitHub Stats</h3>
+    <table>
+      <tr>
+        <td>Total Stars:</td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Jemjeqt?style=flat-square&labelColor=343b41"/></td>
+      </tr>
+      <tr>
+        <td>Total Commits (2024):</td>
+        <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Jemjeqt/Jemjeqt?style=flat-square&labelColor=343b41"/></td>
+      </tr>
+      <tr>
+        <td>Total PRs:</td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Jemjeqt/Jemjeqt?style=flat-square&labelColor=343b41"/></td>
+      </tr>
+      <tr>
+        <td>Total Issues:</td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Jemjeqt/Jemjeqt?style=flat-square&labelColor=343b41"/></td>
+      </tr>
+      <tr>
+        <td>Contributed to:</td>
+        <td><img alt="Contributed" src="https://img.shields.io/github/contributors/Jemjeqt/Jemjeqt?style=flat-square&labelColor=343b41"/></td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- Most Used Languages Chart -->
+  <div align="center">
+    <h3>Most Used Languages</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jemjeqt&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  </div>
 </div>
 
 <br/><br/>
