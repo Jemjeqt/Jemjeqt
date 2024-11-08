@@ -20,16 +20,53 @@
 
  </div>
  
-<div align="center"> 
-  <a href="mailto:azharkhairu29@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/azhar-khairu-hafidz-5aa29b315/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://personalwebjemjee.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <!-- GitHub Stats Card -->
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Jemjeqt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  <!-- GitHub Streak Stats -->
+  <img width="390" src="https://streak-stats.demolab.com?user=Jemjeqt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <!-- Top Languages Card -->
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jemjeqt&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+
+  <!-- GitHub Profile Trophy -->
+  <img width="800" src="https://github-profile-trophy.vercel.app/?username=Jemjeqt&theme=tokyonight&no-frame=true&column=8" alt="GitHub Profile Trophy" />
+
+  <!-- Additional GitHub Stats in Card Format -->
+  <div align="center">
+    <h3>Azhar khairu Hafidz's GitHub Stats</h3>
+    <table>
+      <tr>
+        <td>Total Stars:</td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Jemjeqt?style=flat-square&labelColor=343b41"/></td>
+      </tr>
+      <tr>
+        <td>Total Commits (2024):</td>
+        <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/y/Jemjeqt/Jemjeqt?style=flat-square&labelColor=343b41"/></td>
+      </tr>
+      <tr>
+        <td>Total PRs:</td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Jemjeqt/Jemjeqt?style=flat-square&labelColor=343b41"/></td>
+      </tr>
+      <tr>
+        <td>Total Issues:</td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Jemjeqt/Jemjeqt?style=flat-square&labelColor=343b41"/></td>
+      </tr>
+      <tr>
+        <td>Contributed to:</td>
+        <td><img alt="Contributed" src="https://img.shields.io/github/contributors/Jemjeqt/Jemjeqt?style=flat-square&labelColor=343b41"/></td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- Most Used Languages Chart -->
+  <div align="center">
+    <h3>Most Used Languages</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jemjeqt&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  </div>
 </div>
 
  <hr/>
