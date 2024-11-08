@@ -45,7 +45,8 @@
 <br/>
 <hr/>
 
-<h2>🐍 My Contributions 🐍</h2>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Jemjeqt/Jemjeqt/output/github-contribution-grid-snake.svg" />
   
