@@ -20,7 +20,7 @@
 
 🎯 My goal is to become a full-stack developer and contribute to open-source projects.
 
-⚡ Fun fact **I like playing all the game series**\
+⚡ Fun fact **I like playing all the game series**
 
  </div>
  
