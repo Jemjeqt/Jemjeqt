@@ -12,11 +12,15 @@
  
  🔭 Currently I am studying at **Telkom University**
  
- 🌱 I’m currently learning **React JS, Vite, Vue JS**
+ 🌱 I’m currently learning **Backend Development**
 
 💬 Ask me about anything [here](https://www.instagram.com/_zharkhrh/)
 
-⚡ Fun fact **I like playing all the game series**
+🌐 I love exploring new technologies and continuously improving my skills.
+
+🎯 My goal is to become a full-stack developer and contribute to open-source projects.
+
+⚡ Fun fact **I like playing all the game series**\
 
  </div>
  
