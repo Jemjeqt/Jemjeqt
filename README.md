@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Azhar+Khairu+Hafidz!;&color=808080" />
 </h1>
 
-<h3 align="center">Front - End engineer from Bandung, West Java, Indonesia</h3>
+<h3 align="center">Front - End engineer from Bandung, West Java</h3>
 
 <br/>
 
